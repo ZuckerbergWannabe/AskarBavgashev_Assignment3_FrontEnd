@@ -28,9 +28,7 @@ CSS media queries change the typography at different screen widths:
 - Tablet: medium typography.
 - Mobile: smaller typography.
 
-### Screenshot
-
-_Add screenshot of Task 0 here._
+![Task0](screens/task0.png)
 
 ---
 
@@ -46,9 +44,7 @@ The responsive behavior is:
 
 Bootstrap is not used for the layout in this task.
 
-### Screenshot
-
-_Add screenshot of Task 1 here._
+![Task1](screens/task1.png)
 
 ---
 
@@ -66,9 +62,7 @@ Mobile:  col-12 + col-12 + col-12
 
 This demonstrates how Bootstrap automatically rearranges columns at different breakpoints.
 
-### Screenshot
-
-_Add screenshot of Task 2 here._
+![Task2](screens/taks2.png)
 
 ---
 
@@ -81,13 +75,7 @@ A responsive Bootstrap navbar was created with:
 - Hamburger button on smaller screens.
 - Bootstrap Collapse component for the mobile menu.
 
-### Screenshot — Desktop
-
-_Add desktop screenshot here._
-
-### Screenshot — Mobile
-
-_Add mobile screenshot here._
+![Task3](screens/task3.png)
 
 ---
 
@@ -123,18 +111,6 @@ On desktop the main section contains:
 - Right side: personal information, skills and contact details.
 
 On smaller screens the layout becomes a single column.
-
-### Screenshot — Desktop
-
-_Add desktop screenshot here._
-
-### Screenshot — Tablet
-
-_Add tablet screenshot here._
-
-### Screenshot — Mobile
-
-_Add mobile screenshot here._
 
 ---
 
